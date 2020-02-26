@@ -1,0 +1,6 @@
+2020-02-26 16:15:45 INFO  App:77 - Into App Class
+2020-02-26 16:15:45 INFO  App:78 - Into Main() of App Class
+2020-02-26 16:15:56 INFO  App:104 - Case 1
+2020-02-26 16:16:14 INFO  Interest:20 - Into Interest Class
+2020-02-26 16:16:17 INFO  Interest:24 - Into Simple Interest method
+2020-02-26 16:16:22 INFO  App:181 - End of Main()
